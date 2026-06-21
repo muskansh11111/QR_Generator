@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { QRCodeCanvas } from "qrcode.react";
-import "../App.css";
+// import "../App.css";
 
 function Dashboard() {
   const [type, setType] = useState("text");
